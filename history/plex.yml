@@ -1,7 +1,7 @@
 url: https://plex.elightcap.com/identity
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-01-30T23:47:37.414Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2022-01-30T23:57:05.950Z
 startTime: Sun Jan 30 2022 20:37:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
