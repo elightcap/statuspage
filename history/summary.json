@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.elightcap.com",
     "slug": "plex",
     "status": "up",
-    "uptime": "87.25%",
-    "uptimeDay": "87.25%",
-    "uptimeWeek": "87.25%",
-    "uptimeMonth": "87.25%",
-    "uptimeYear": "87.25%",
+    "uptime": "93.01%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "93.01%",
     "time": 300,
     "timeDay": 300,
     "timeWeek": 300,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-01-30": 26
+      "2022-01-30": 16
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/ombi.elightcap.com",
     "slug": "ombi",
     "status": "up",
-    "uptime": "82.01%",
-    "uptimeDay": "82.01%",
-    "uptimeWeek": "82.01%",
-    "uptimeMonth": "82.01%",
-    "uptimeYear": "82.01%",
+    "uptime": "88.20%",
+    "uptimeDay": "88.20%",
+    "uptimeWeek": "88.20%",
+    "uptimeMonth": "88.20%",
+    "uptimeYear": "88.20%",
     "time": 2287,
     "timeDay": 2287,
     "timeWeek": 2287,
     "timeMonth": 2287,
     "timeYear": 2287,
     "dailyMinutesDown": {
-      "2022-01-30": 36
+      "2022-01-30": 27
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/sonarr.elightcap.com",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "87.74%",
-    "uptimeDay": "87.74%",
-    "uptimeWeek": "87.74%",
-    "uptimeMonth": "87.74%",
-    "uptimeYear": "87.74%",
+    "uptime": "93.00%",
+    "uptimeDay": "93.00%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "93.00%",
     "time": 1316,
     "timeDay": 1316,
     "timeWeek": 1316,
     "timeMonth": 1316,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2022-01-30": 25
+      "2022-01-30": 16
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/radarr.elightcap.com",
     "slug": "radarr",
     "status": "up",
-    "uptime": "88.00%",
-    "uptimeDay": "88.00%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "88.00%",
-    "uptimeYear": "88.00%",
+    "uptime": "93.01%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "93.01%",
     "time": 249,
     "timeDay": 249,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-01-30": 24
+      "2022-01-30": 16
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/sabnzbd.elightcap.com",
     "slug": "sabnzbd",
     "status": "up",
-    "uptime": "88.22%",
-    "uptimeDay": "88.22%",
-    "uptimeWeek": "88.22%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "88.22%",
+    "uptime": "93.01%",
+    "uptimeDay": "93.01%",
+    "uptimeWeek": "93.01%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "93.01%",
     "time": 560,
     "timeDay": 560,
     "timeWeek": 560,
     "timeMonth": 560,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-01-30": 24
+      "2022-01-30": 16
     }
   }
 ]
