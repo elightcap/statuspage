@@ -1,7 +1,7 @@
 url: https://ombi.elightcap.com
-status: down
-code: 502
-responseTime: 10306
-lastUpdated: 2022-03-01T11:26:22.678Z
+status: up
+code: 200
+responseTime: 578
+lastUpdated: 2022-03-01T11:38:05.995Z
 startTime: Sun Jan 30 2022 20:37:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
