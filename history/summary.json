@@ -4,9 +4,9 @@
     "url": "https://plex.elightcap.com/identity",
     "icon": "https://favicons.githubusercontent.com/plex.elightcap.com",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 321,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-11": 22,
       "2022-01-30": 16
     }
@@ -25,9 +26,9 @@
     "url": "https://ombi.elightcap.com",
     "icon": "https://favicons.githubusercontent.com/ombi.elightcap.com",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -37,6 +38,7 @@
     "timeMonth": 313,
     "timeYear": 655,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-11": 22,
       "2022-02-16": 16,
       "2022-01-30": 27
@@ -47,9 +49,9 @@
     "url": "https://sonarr.elightcap.com",
     "icon": "https://favicons.githubusercontent.com/sonarr.elightcap.com",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.66%",
@@ -59,6 +61,7 @@
     "timeMonth": 248,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-11": 22,
       "2022-03-01": 247,
       "2022-02-21": 16,
@@ -70,9 +73,9 @@
     "url": "https://radarr.elightcap.com",
     "icon": "https://favicons.githubusercontent.com/radarr.elightcap.com",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -82,6 +85,7 @@
     "timeMonth": 268,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-11": 22,
       "2022-02-25": 28,
       "2022-01-30": 16
@@ -92,9 +96,9 @@
     "url": "https://sabnzbd.elightcap.com",
     "icon": "https://favicons.githubusercontent.com/sabnzbd.elightcap.com",
     "slug": "sabnzbd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -104,6 +108,7 @@
     "timeMonth": 590,
     "timeYear": 555,
     "dailyMinutesDown": {
+      "2022-04-02": 0,
       "2022-03-11": 22,
       "2022-01-30": 16
     }
