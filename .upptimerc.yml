@@ -38,8 +38,9 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/1 * * * *"
-
-
+NOTIFICATION_SLACK: true
+NOTIFICATION_SLACK_WEBHOOK: true
+NOTIFICATION_SLACK_WEBHOOK_URL: "https://hooks.slack.com/services/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"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
