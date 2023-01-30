@@ -6,15 +6,15 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "60.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.43%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.66%",
-    "time": 345,
-    "timeDay": 288,
-    "timeWeek": 306,
-    "timeMonth": 337,
-    "timeYear": 345,
+    "time": 346,
+    "timeDay": 523,
+    "timeWeek": 307,
+    "timeMonth": 342,
+    "timeYear": 346,
     "dailyMinutesDown": {
       "2023-01-28": 562,
       "2023-01-06": 48,
@@ -32,14 +32,14 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "61.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.44%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.45%",
     "time": 385,
-    "timeDay": 434,
-    "timeWeek": 331,
-    "timeMonth": 318,
+    "timeDay": 459,
+    "timeWeek": 321,
+    "timeMonth": 322,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2023-01-28": 560,
@@ -56,8 +56,7 @@
       "2022-04-07": 22,
       "2022-04-02": 630,
       "2022-03-11": 22,
-      "2022-02-16": 16,
-      "2022-01-30": 27
+      "2022-02-16": 16
     }
   },
   {
@@ -66,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.elightcap.com.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "61.12%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.04%",
     "uptimeMonth": "98.52%",
-    "uptimeYear": "99.40%",
-    "time": 313,
-    "timeDay": 2826,
-    "timeWeek": 640,
-    "timeMonth": 496,
-    "timeYear": 313,
+    "uptimeYear": "99.41%",
+    "time": 314,
+    "timeDay": 384,
+    "timeWeek": 645,
+    "timeMonth": 499,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2023-01-28": 560,
       "2023-01-25": 41,
@@ -94,8 +93,7 @@
       "2022-04-02": 629,
       "2022-03-11": 22,
       "2022-03-01": 247,
-      "2022-02-21": 16,
-      "2022-01-30": 16
+      "2022-02-21": 16
     }
   },
   {
@@ -105,14 +103,14 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "61.16%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.45%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.47%",
     "time": 281,
-    "timeDay": 264,
-    "timeWeek": 231,
-    "timeMonth": 246,
+    "timeDay": 393,
+    "timeWeek": 237,
+    "timeMonth": 249,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2023-01-28": 559,
@@ -129,8 +127,7 @@
       "2022-04-07": 21,
       "2022-04-02": 630,
       "2022-03-11": 22,
-      "2022-02-25": 28,
-      "2022-01-30": 16
+      "2022-02-25": 28
     }
   },
   {
@@ -140,15 +137,15 @@
     "slug": "sabnzbd",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "61.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.46%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.48%",
-    "time": 581,
-    "timeDay": 693,
-    "timeWeek": 547,
-    "timeMonth": 533,
-    "timeYear": 581,
+    "time": 583,
+    "timeDay": 1312,
+    "timeWeek": 604,
+    "timeMonth": 558,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2023-01-28": 559,
       "2023-01-06": 48,
@@ -161,8 +158,7 @@
       "2022-04-08": 917,
       "2022-04-07": 20,
       "2022-04-02": 629,
-      "2022-03-11": 22,
-      "2022-01-30": 16
+      "2022-03-11": 22
     }
   }
 ]
