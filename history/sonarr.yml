@@ -1,7 +1,7 @@
 url: https://sonarr.elightcap.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-06T03:50:12.025Z
+status: up
+code: 200
+responseTime: 2579
+lastUpdated: 2024-04-06T05:44:48.518Z
 startTime: 2022-01-30T20:37:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
