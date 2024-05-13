@@ -6,9 +6,9 @@
     "slug": "jellyfin",
     "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "97.10%",
     "time": 313,
     "timeDay": 342,
@@ -16,7 +16,6 @@
     "timeMonth": 609,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-05-12": 10,
       "2024-05-02": 17,
       "2024-05-01": 15,
       "2024-04-30": 18,
@@ -49,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.elightcap.com.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "51.16%",
+    "uptime": "51.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -60,7 +59,8 @@
     "timeMonth": 0,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-05-12": 1405,
+      "2024-05-13": 38,
+      "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
@@ -423,8 +423,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
