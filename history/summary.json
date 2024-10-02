@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.elightcap.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "85.88%",
+    "uptime": "85.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.14%",
+    "uptimeYear": "66.87%",
     "time": 308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-10-01": 52,
+      "2024-10-02": 45,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -149,8 +150,7 @@
       "2024-01-18": 143,
       "2024-01-17": 912,
       "2024-01-16": 402,
-      "2023-11-15": 19,
-      "2023-10-03": 243
+      "2023-11-15": 19
     }
   },
   {
@@ -159,18 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.elightcap.com.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "43.75%",
+    "uptime": "43.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 383,
+    "time": 385,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-01": 52,
+      "2024-10-02": 45,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -533,8 +534,7 @@
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
-      "2023-10-04": 1440,
-      "2023-10-03": 1440
+      "2023-10-04": 1440
     }
   },
   {
@@ -543,18 +543,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.elightcap.com.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "87.37%",
+    "uptime": "87.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.19%",
-    "time": 336,
+    "uptimeYear": "66.91%",
+    "time": 335,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 377,
+    "timeYear": 378,
     "dailyMinutesDown": {
-      "2024-10-01": 52,
+      "2024-10-02": 45,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -683,8 +684,7 @@
       "2024-02-10": 59,
       "2024-01-17": 891,
       "2024-01-16": 402,
-      "2023-11-15": 19,
-      "2023-10-03": 243
+      "2023-11-15": 19
     }
   },
   {
@@ -693,18 +693,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.elightcap.com.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "87.49%",
+    "uptime": "87.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.19%",
-    "time": 235,
+    "uptimeYear": "66.92%",
+    "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 245,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-10-01": 52,
+      "2024-10-02": 45,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -832,8 +833,7 @@
       "2024-03-20": 573,
       "2024-02-10": 57,
       "2024-01-17": 890,
-      "2024-01-16": 401,
-      "2023-10-03": 243
+      "2024-01-16": 401
     }
   },
   {
@@ -842,18 +842,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sabnzbd.elightcap.com.ico",
     "slug": "sabnzbd",
     "status": "down",
-    "uptime": "87.40%",
+    "uptime": "87.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.19%",
+    "uptimeYear": "66.92%",
     "time": 240,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-10-01": 52,
+      "2024-10-02": 45,
+      "2024-10-01": 1440,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -981,8 +982,7 @@
       "2024-03-20": 573,
       "2024-02-10": 42,
       "2024-01-17": 889,
-      "2024-01-16": 401,
-      "2023-10-03": 243
+      "2024-01-16": 401
     }
   }
 ]
