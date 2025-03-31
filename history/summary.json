@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.elightcap.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "70.98%",
+    "uptime": "70.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "19.70%",
-    "time": 381,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "19.68%",
+    "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 513,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-03-30": 55,
+      "2025-03-31": 54,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -315,8 +316,7 @@
       "2024-04-05": 18,
       "2024-04-03": 883,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 48
+      "2024-04-01": 1440
     }
   },
   {
@@ -325,10 +325,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.elightcap.com.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "36.93%",
+    "uptime": "36.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -336,7 +336,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 55,
+      "2025-03-31": 54,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -699,8 +700,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -709,18 +709,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.elightcap.com.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "73.75%",
+    "uptime": "73.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "19.71%",
-    "time": 396,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "19.69%",
+    "time": 398,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 461,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-03-30": 55,
+      "2025-03-31": 54,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1016,8 +1017,7 @@
       "2024-04-06": 115,
       "2024-04-03": 883,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 48
+      "2024-04-01": 1440
     }
   },
   {
@@ -1026,18 +1026,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.elightcap.com.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "73.84%",
+    "uptime": "73.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "19.71%",
-    "time": 263,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "19.69%",
+    "time": 262,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 325,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-03-30": 55,
+      "2025-03-31": 54,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1333,8 +1334,7 @@
       "2024-04-06": 114,
       "2024-04-03": 883,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 47
+      "2024-04-01": 1440
     }
   },
   {
@@ -1343,18 +1343,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sabnzbd.elightcap.com.ico",
     "slug": "sabnzbd",
     "status": "down",
-    "uptime": "73.77%",
+    "uptime": "73.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "19.71%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "19.69%",
     "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 246,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-03-30": 56,
+      "2025-03-31": 54,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1650,8 +1651,7 @@
       "2024-04-06": 114,
       "2024-04-03": 883,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 47
+      "2024-04-01": 1440
     }
   }
 ]
