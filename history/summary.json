@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.elightcap.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "70.57%",
+    "uptime": "70.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.03%",
+    "uptimeYear": "18.76%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-06": 55,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -316,8 +317,7 @@
       "2024-06-12": 37,
       "2024-05-02": 17,
       "2024-05-01": 15,
-      "2024-04-30": 18,
-      "2024-04-06": 125
+      "2024-04-30": 18
     }
   },
   {
@@ -326,7 +326,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.elightcap.com.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "36.74%",
+    "uptime": "36.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -337,7 +337,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-06": 55,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -700,8 +701,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   },
   {
@@ -710,18 +710,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.elightcap.com.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "73.37%",
+    "uptime": "73.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.04%",
-    "time": 399,
+    "uptimeYear": "18.77%",
+    "time": 400,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-06": 55,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1019,8 +1020,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 487,
       "2024-06-12": 37,
-      "2024-05-02": 17,
-      "2024-04-06": 115
+      "2024-05-02": 17
     }
   },
   {
@@ -1029,18 +1029,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.elightcap.com.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "73.46%",
+    "uptime": "73.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.04%",
-    "time": 264,
+    "uptimeYear": "18.77%",
+    "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-06": 55,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1338,8 +1339,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 486,
       "2024-06-12": 36,
-      "2024-05-02": 16,
-      "2024-04-06": 114
+      "2024-05-02": 16
     }
   },
   {
@@ -1348,18 +1348,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sabnzbd.elightcap.com.ico",
     "slug": "sabnzbd",
     "status": "down",
-    "uptime": "73.39%",
+    "uptime": "73.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.04%",
-    "time": 226,
+    "uptimeYear": "18.77%",
+    "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 253,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-04-05": 50,
+      "2025-04-06": 55,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -1657,8 +1658,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 486,
       "2024-06-12": 36,
-      "2024-05-02": 16,
-      "2024-04-06": 114
+      "2024-05-02": 16
     }
   }
 ]
