@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.elightcap.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "65.19%",
+    "uptime": "65.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 498,
+    "time": 501,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 60,
+      "2025-07-01": 63,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -379,8 +380,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ombi.elightcap.com.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "34.20%",
+    "uptime": "34.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 60,
+      "2025-07-01": 63,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -763,8 +764,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.elightcap.com.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "68.30%",
+    "uptime": "68.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 443,
+    "time": 442,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 60,
+      "2025-07-01": 64,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -1147,8 +1148,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.elightcap.com.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "68.39%",
+    "uptime": "68.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 304,
+    "time": 305,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 60,
+      "2025-07-01": 64,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -1531,8 +1532,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sabnzbd.elightcap.com.ico",
     "slug": "sabnzbd",
     "status": "down",
-    "uptime": "68.32%",
+    "uptime": "68.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 240,
+    "time": 241,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 61,
+      "2025-07-01": 64,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -1915,8 +1916,7 @@
       "2024-07-05": 1440,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
-      "2024-07-02": 1440,
-      "2024-07-01": 1440
+      "2024-07-02": 1440
     }
   }
 ]
